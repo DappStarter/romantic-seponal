@@ -1,0 +1,8 @@
+{
+    "name": "election2",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true
+    }
+}
